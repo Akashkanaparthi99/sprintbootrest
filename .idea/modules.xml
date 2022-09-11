@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/product-material-restapi/product-material-restapi.iml" filepath="$PROJECT_DIR$/product-material-restapi/product-material-restapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sping-rest-furnresponse/sping-rest-furnresponse.iml" filepath="$PROJECT_DIR$/sping-rest-furnresponse/sping-rest-furnresponse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spirng-security-basic/spirng-security-basic.iml" filepath="$PROJECT_DIR$/spirng-security-basic/spirng-security-basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-projection-employee/spring-projection-employee.iml" filepath="$PROJECT_DIR$/spring-projection-employee/spring-projection-employee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-projection-onetoone/spring-projection-onetoone.iml" filepath="$PROJECT_DIR$/spring-projection-onetoone/spring-projection-onetoone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-projection-productapp/spring-projection-productapp.iml" filepath="$PROJECT_DIR$/spring-projection-productapp/spring-projection-productapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spring-rest-basic/spring-rest-basic.iml" filepath="$PROJECT_DIR$/../spring-rest-basic/spring-rest-basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-rest-bookapp/spring-rest-bookapp.iml" filepath="$PROJECT_DIR$/spring-rest-bookapp/spring-rest-bookapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-rest-bookdocker/spring-rest-bookdocker.iml" filepath="$PROJECT_DIR$/spring-rest-bookdocker/spring-rest-bookdocker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-rest-camerajpa/spring-rest-camerajpa.iml" filepath="$PROJECT_DIR$/spring-rest-camerajpa/spring-rest-camerajpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-rest-cameraresponse/spring-rest-cameraresponse.iml" filepath="$PROJECT_DIR$/spring-rest-cameraresponse/spring-rest-cameraresponse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-rest-docker/spring-rest-docker.iml" filepath="$PROJECT_DIR$/spring-rest-docker/spring-rest-docker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-rest-productresponse/spring-rest-productresponse.iml" filepath="$PROJECT_DIR$/spring-rest-productresponse/spring-rest-productresponse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-restjpa-docker/spring-restjpa-docker.iml" filepath="$PROJECT_DIR$/spring-restjpa-docker/spring-restjpa-docker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-security-datajpa/spring-security-datajpa.iml" filepath="$PROJECT_DIR$/spring-security-datajpa/spring-security-datajpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-security-inmemory/spring-security-inmemory.iml" filepath="$PROJECT_DIR$/spring-security-inmemory/spring-security-inmemory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-security-jwt/spring-security-jwt.iml" filepath="$PROJECT_DIR$/spring-security-jwt/spring-security-jwt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sprintbootrest.iml" filepath="$PROJECT_DIR$/sprintbootrest.iml" />
+    </modules>
+  </component>
+</project>

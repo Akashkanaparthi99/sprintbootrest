@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../spring-rest-basic/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-rest-basic/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-rest-bookapp/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-rest-camerajpa/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-rest-productresponse/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-rest-cameraresponse/pom.xml" />
+        <option value="$PROJECT_DIR$/sping-rest-furnresponse/pom.xml" />
+        <option value="$PROJECT_DIR$/spirng-security-basic/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-security-inmemory/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-security-datajpa/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-projection-productapp/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-projection-employee/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-projection-onetoone/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-security-jwt/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-rest-docker/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-rest-bookdocker/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-restjpa-docker/pom.xml" />
+        <option value="$PROJECT_DIR$/product-material-restapi/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+</project>
